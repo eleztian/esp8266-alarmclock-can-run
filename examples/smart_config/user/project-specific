@@ -1,0 +1,13 @@
+"SublimeLinter":
+{
+    "linters":
+    {
+        "clang": {
+            "extra_flags": "-Wall -I${project_folder}/foo",
+            "include_dirs": [
+                "${project_folder}/3rdparty/bar/include",
+                "${project_folder}/3rdparty/baz"
+            ]
+        }
+    }
+},

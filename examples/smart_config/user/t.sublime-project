@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"path": "F:\\softwear\\Linux\\test"
+		},
+		{
+			"path": "C:\\cygwin64\\lib\\gcc\\x86_64-pc-cygwin\\5.4.0"
+		},
+		{
+			"path": "G:\\Download\\linux-2.6.27.32\\linux-2.6.27.32"
+		}
+	],
+	"settings":
+	{
+		"sublimeclang_options":
+		[
+			"-IF:\\softwear\\Linux\\test"
+		]
+	}
+}
